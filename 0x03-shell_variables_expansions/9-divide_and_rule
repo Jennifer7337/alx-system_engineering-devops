@@ -1,2 +1,2 @@
 #!/bin/bash
-echo
+echio $((POWER/DEVIDE))
